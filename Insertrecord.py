@@ -1,7 +1,7 @@
 import pymysql as sql
 try:
     db = sql.connect(host=input("Enter your Host name:--  "), port=int(input("Enter your port no:-- ")), user=input("Enter your user name:--  "), passwd=input("Enter your passwd:--  "),db=input("Enter your database:-- "))
-    #db = sql.connect(host="localhost", port=3306, user="root", passwd="123", db="resturant")
+    #db = sql.connect(host="localhost", port=3306, user="root", passwd="xxx", db="resturant")
     cmd = db.cursor()
     T=int(input("Enter how many records u want insert:-- "))
     while(T):

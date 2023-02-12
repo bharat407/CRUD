@@ -1,6 +1,6 @@
 # CRUD
 
-### Create,Read,Update,Delete
+### Create,Read,Update,Delete [CURD]
 
 - DBMS CURD Operations in Python - created by [@bharat407](https://github.com/bharat407).
 
@@ -20,5 +20,5 @@
 
 - For download [@MySQL](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
-# All Done
-## Thank You
+
+# Thank You
